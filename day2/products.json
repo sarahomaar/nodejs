@@ -1,0 +1,14 @@
+[
+ {
+  "id": 1,
+  "product": "pepsi"
+ },
+ {
+  "id": 2,
+  "product": "milk"
+ },
+ {
+  "id": 3,
+  "product": "juice"
+ }
+]
